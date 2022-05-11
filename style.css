@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
+header {
+  text-align-last: center;
+  font-family: "Rubik Glitch", cursive;
+  font-size: 4rem;
+  margin-top: 3rem;
+}
+
+body {
+  background-image: url(/background.webp);
+  color: white;
+  background-size: cover;
+}
+
+.col {
+  border: 1px solid white;
+  text-align: center;
+  border-radius: 1rem;
+  margin: 1.1rem;
+}
+
+.col img {
+  place-self: center;
+}
+
+div p {
+  font-size: 1.3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
